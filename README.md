@@ -14,3 +14,4 @@ Click in the top right on clone/download and choose option 'download zip'
 
 # Updates
 24-09-2018 - Added 38 presets pulled from the Aqua Illumination Users group at Facebook. User names are added to the file names, to reflect authorship.
+22-09-2018 - Initial upload of all files.
