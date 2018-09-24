@@ -13,5 +13,5 @@ If you find your preset here and want it removed, please send me a message.
 Click in the top right on clone/download and choose option 'download zip'
 
 # Updates
-24-09-2018 - Added 38 presets pulled from the Aqua Illumination Users group at Facebook. User names are added to the file names, to reflect authorship.
+24-09-2018 - Added 38 presets pulled from the Aqua Illumination Users group at Facebook. User names are added to the file names, to reflect authorship. <br/><br/>
 22-09-2018 - First upload / start of the repository
